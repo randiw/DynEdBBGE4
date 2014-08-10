@@ -1,0 +1,2944 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mainlist>
+	<appname>General English 4</appname>
+	<mainlistitem id="1">
+		<title>Unit 1: What are you doing in Washington?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0401A.jpg</image>
+				<audio>NDE0401A.mp3</audio>
+				<viewscript>Kathy: We're talking with Dr. Sara Scott. Hello, Sara. It's nice to see you again.
+				
+Sara: Hello, Kathy. Hi, Max.
+
+Kathy: What are you doing in Washington?
+
+Sara: I'm attending a conference at Georgetown University.
+
+Kathy: Is it all work, or do you have some free time?
+
+Sara: We're pretty busy--lots of meetings--but we do have some time to relax.
+
+Kathy: Do you have meetings all day?
+
+Sara: Yes, we do. Yesterday we had meetings from nine in the morning until six at night.</viewscript>
+				<comprehension>
+					<title>Lesson 1-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is Sara doing in Washington?</question>
+						<option>She's attending a conference.</option>
+						<option>She's on vacation.</option>
+						<option>She's a student at Georgetown University.</option>
+						<answer>She's attending a conference.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Does she have meetings all day?</question>
+						<option>Yes, she does.</option>
+						<option>No, she doesn't.</option>
+						<option>She has no free time.</option>
+						<answer>Yes, she does.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What time did her meetings end yesterday?</question>
+						<option>6:00 p.m.</option>
+						<option>8:00 p.m.</option>
+						<option>9:00 p.m.</option>
+						<answer>6:00 p.m.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I'm _________ a conference.</question>
+						<option>attending</option>
+						<option>attend</option>
+						<option>attends</option>
+						<answer>attending</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Do you have ____ free time?</question>
+						<option>some</option>
+						<option>a</option>
+						<option>the</option>
+						<answer>some</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Yesterday, we ___ meetings from 9:00 a.m. to 6:00 p.m.</question>
+						<option>had</option>
+						<option>having</option>
+						<option>have</option>
+						<answer>had</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0401B.jpg</image>
+				<audio>NDE0401B.mp3</audio>
+				<viewscript>Kathy: Yesterday we had meetings from nine in the morning until six at night. But we're free in the evenings.
+				
+Kathy: What do you do in the evenings?
+
+Sara: Well, last night I went out to dinner with some friends.
+
+Kathy: Where did you go?
+
+Sara: We went to a seafood restaurant near the Capitol.
+
+Kathy: What did you do after dinner?
+
+Sara: After dinner, we went for a drive around Washington.</viewscript>
+				<comprehension>
+					<title>Lesson 1-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0401B_Q1.mp3|What did Sara do last night?</question>
+						<option>She went out to dinner.</option>
+						<option>She went to a meeting.</option>
+						<option>She cooked dinner.</option>
+						<answer>She went out to dinner.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0401B_Q2.mp3|Who did she eat dinner with?</question>
+						<option>her friends</option>
+						<option>a seafood restaurant</option>
+						<option>by herself</option>
+						<answer>her friends</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0401B_Q3.mp3|What did she do after dinner?</question>
+						<option>She went for a drive.</option>
+						<option>She went to a seafood restaurant.</option>
+						<option>She attended a meeting.</option>
+						<answer>She went for a drive.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>you do</option>
+						<option>the evenings?</option>
+						<option>What</option>
+						<option>do</option>
+						<option>in</option>
+						<answer>What do you do in the evenings?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>went out</option>
+						<option>some friends.</option>
+						<option>I</option>
+						<option>to</option>
+						<option>dinner</option>
+						<option>with</option>
+						<answer>I went out to dinner with some friends.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>went to</option>
+						<option>a seafood</option>
+						<option>the Capitol.</option>
+						<option>We</option>
+						<option>restaurant</option>
+						<option>near</option>
+						<answer>We went to a seafood restaurant near the Capitol.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0401C.jpg</image>
+				<audio>NDE0401C.mp3</audio>
+				<viewscript>Kathy: We're back with our guest Sara Scott. Last night you went for a drive around Washington. What did you see?
+				
+Sara: We saw the Washington Monument and the Lincoln Memorial.
+
+Kathy: Did you see the Capitol Building?
+
+Sara: Yes, we did.
+
+Kathy: How about the Jefferson Memorial? Did you see the Jefferson Memorial?
+
+Sara: No, we didn't. We saw the Lincoln Memorial, but we didn't see the Jefferson Memorial.</viewscript>
+				<comprehension>
+					<title>Lesson 1-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When did Sara go for a drive?</question>
+						<option>She went last night.</option>
+						<option>She will go tonight.</option>
+						<option>She didn't go for a drive.</option>
+						<answer>She went last night.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What didn't Sara see during her drive?</question>
+						<option>the Jefferson Memorial</option>
+						<option>the Lincoln Memorial</option>
+						<option>the Capitol Building</option>
+						<answer>the Jefferson Memorial</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Did she see the Washington Monument?</question>
+						<option>Yes, she did.</option>
+						<option>Yes, she is.</option>
+						<option>No, she didn't.</option>
+						<answer>Yes, she did.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What did you ___?</question>
+						<option>see</option>
+						<option>saw</option>
+						<option>seen</option>
+						<answer>see</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>We ___ the Washington Monument.</question>
+						<option>saw</option>
+						<option>see</option>
+						<option>seeing</option>
+						<answer>saw</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>We ______ see the Jefferson Memorial.</question>
+						<option>didn't</option>
+						<option>don't</option>
+						<option>not</option>
+						<answer>didn't</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="2">
+		<title>Unit 2: What do you like to do on the weekend?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0402A.jpg</image>
+				<audio>NDE0402A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandy Steele. Hello, Sandy.
+				
+Sandy: Hi, Kathy.
+
+Kathy: Sandy, today we're going to talk about weekends. OK?
+
+Sandy: Sure.
+
+Kathy: Sandy, what do you like to do on the weekend?
+
+Sandy: Oh, I like to do a number of things. Sometimes I go to parties. When the weather's nice, I like to go fishing.
+
+Kathy: Fishing?
+
+Sandy: Yes, I love to go fishing in the mountains. Last Saturday I went fishing.</viewscript>
+				<comprehension>
+					<title>Lesson 2-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Sandy like to do when the weather is nice?</question>
+						<option>go fishing</option>
+						<option>play the saxophone</option>
+						<option>go to parties</option>
+						<answer>go fishing</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where does Sandy like to go fishing?</question>
+						<option>in the mountains</option>
+						<option>in the ocean</option>
+						<option>at the city park</option>
+						<answer>in the mountains</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What did Sandy do last Saturday?</question>
+						<option>He went fishing.</option>
+						<option>He went to a party.</option>
+						<option>He performed with his Jazz band.</option>
+						<answer>He went fishing.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What do you like to do __ the weekend?</question>
+						<option>on</option>
+						<option>in</option>
+						<option>at</option>
+						<answer>on</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I love to __ fishing in the mountains.</question>
+						<option>go</option>
+						<option>do</option>
+						<option>take</option>
+						<answer>go</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Last Saturday, I ____ fishing.</question>
+						<option>went</option>
+						<option>go</option>
+						<option>am going</option>
+						<answer>went</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0402B.jpg</image>
+				<audio>NDE0402B.mp3</audio>
+				<viewscript>Sandy: Last Saturday I went fishing.
+				
+Kathy: Tell us about it.
+
+Sandy: OK. I got up early Saturday morning.
+
+Kathy: How early?
+
+Sandy: Four a.m.
+
+Kathy: That is early!
+
+Sandy: Yes. And I drove for three hours to a small lake. I had my fishing pole, my lunch, and my saxophone with me.
+
+Kathy: Your saxophone? Why did you bring your saxophone with you?
+
+Sandy: I brought it because I love to play it! I bring it with me everywhere I go.</viewscript>
+				<comprehension>
+					<title>Lesson 2-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0402B_Q1.mp3|What time did Sandy get up last Saturday?</question>
+						<option>at 4:00 a.m.</option>
+						<option>for three hours</option>
+						<option>Saturday morning</option>
+						<answer>at 4:00 a.m.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0402B_Q2.mp3|How long did it take him to get to the lake?</question>
+						<option>three hours</option>
+						<option>around 7:00 a.m.</option>
+						<option>four hours</option>
+						<answer>three hours</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0402B_Q3.mp3|What does he bring with him everywhere he goes?</question>
+						<option>his saxophone</option>
+						<option>his fishing pole</option>
+						<option>his lunc</option>
+						<answer>his saxophone</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>got</option>
+						<option>I</option>
+						<option>up</option>
+						<option>early</option>
+						<option>morning.</option>
+						<option>Saturday</option>
+						<answer>I got up early Saturday morning.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>three hours</option>
+						<option>a small lake.</option>
+						<option>I</option>
+						<option>drove</option>
+						<option>to</option>
+						<option>for</option>
+						<answer>I drove for three hours to a small lake.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>did you</option>
+						<option>with you?</option>
+						<option>Why</option>
+						<option>bring</option>
+						<option>your</option>
+						<option>saxophone</option>
+						<answer>Why did you bring your saxophone with you?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0402C.jpg</image>
+				<audio>NDE0402C.mp3</audio>
+				<viewscript>Kathy: We're talking with Sandy Steele. Sandy went fishing last weekend. Did you catch any fish?
+				
+Sandy: Yes, I did. I caught five big ones.
+
+Kathy: What did you do with them?
+
+Sandy: I brought them home.
+
+Kathy: Did you eat them?
+
+Sandy: No, I didn't. My roommate ate them.
+
+Kathy: You didn't eat any of them?
+
+Sandy: No. I don't like fish.
+
+Kathy: You don't??
+
+Sandy: No. I like to catch fish, but I don't like to eat them.</viewscript>
+				<comprehension>
+					<title>Lesson 2-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How many fish did Sandy catch?</question>
+						<option>He caught five fish.</option>
+						<option>He didn't catch any fish.</option>
+						<option>He caught fifteen fish.</option>
+						<answer>He caught five fish.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What did he do with the fish?</question>
+						<option>He brought them home and his roommate ate them.</option>
+						<option>He brought them home and ate them.</option>
+						<option>He ate them at the lake.</option>
+						<answer>He brought them home and his roommate ate them.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Which does Sandy prefer, catching fish or eating fish?</question>
+						<option>He prefers to catch them.</option>
+						<option>He prefers to eat them.</option>
+						<option>He likes to catch them and he loves to eat them.</option>
+						<answer>He prefers to catch them.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What __________ with the fish?</question>
+						<option>did you do</option>
+						<option>are you do</option>
+						<option>did you</option>
+						<answer>did you do</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I caught five fish and _______ them home.</question>
+						<option>brought</option>
+						<option>bring</option>
+						<option>did bring</option>
+						<answer>brought</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Did you ___ any of the fish?</question>
+						<option>eat</option>
+						<option>ate</option>
+						<option>eaten</option>
+						<answer>eat</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="3">
+		<title>Unit 3: The hotel was in the center of town.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0403A.jpg</image>
+				<audio>NDE0403A.mp3</audio>
+				<viewscript>Kathy: We're talking today with Simon Tompkins. Simon, did you take a vacation last summer?
+				
+Simon: Yes, we did.
+
+Kathy: Where did you go?
+
+Simon: My friend Tony and I went to Santa Fe.
+
+Kathy: Santa Fe?
+
+Simon: Yes. Santa Fe, New Mexico.
+
+Kathy: It's a very old city, isn't it?
+
+Simon: Yes, it is. And it's very beautiful.
+
+Kathy: Where did you stay? Where did you stay in Santa Fe?
+
+Simon: We stayed in a small hotel.
+
+Kathy: Was it nice?
+
+Simon: Well, it was in the center of town. So it was pretty noisy.
+
+Kathy: Was it expensive?
+
+Simon: No, it wasn't. It wasn't very expensive.</viewscript>
+				<comprehension>
+					<title>Lesson 3-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When did Simon and Tony go to Santa Fe?</question>
+						<option>last summer</option>
+						<option>several years ago</option>
+						<option>during the winter</option>
+						<answer>last summer</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where did they stay?</question>
+						<option>in a small hotel</option>
+						<option>in a large resort</option>
+						<option>with friends</option>
+						<answer>in a small hotel</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How expensive was the hotel?</question>
+						<option>not very expensive</option>
+						<option>quite expensive</option>
+						<option>very inexpensive</option>
+						<answer>not very expensive</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Sante Fe __ a very old city, isn't it?</question>
+						<option>is</option>
+						<option>was</option>
+						<option>isn't</option>
+						<answer>is</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Where ___ you stay in Santa Fe?</question>
+						<option>did</option>
+						<option>are</option>
+						<option>have</option>
+						<answer>did</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>The hotel wasn't ____ expensive.</question>
+						<option>very</option>
+						<option>not</option>
+						<option>much</option>
+						<answer>very</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0403B.jpg</image>
+				<audio>NDE0403B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Simon Tompkins. Last summer, he and his friend Tony went to Santa Fe, New Mexico. How long did you stay in Santa Fe?
+				
+Simon: We stayed there for a week.
+
+Kathy: What did you do?
+
+Simon: Well, Tony likes hiking. So we went hiking almost every day. I took a lot of pictures... uh, photographs.
+
+Kathy: What else did you do?
+
+Simon: Oh... we went shopping. We bought a beautiful Indian rug.</viewscript>
+				<comprehension>
+					<title>Lesson 3-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0403B_Q1.mp3|How long did they stay in Santa Fe?</question>
+						<option>one week</option>
+						<option>five days</option>
+						<option>every day</option>
+						<answer>one week</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0403B_Q2.mp3|How often did they go hiking?</question>
+						<option>almost every day</option>
+						<option>two or three times</option>
+						<option>a week</option>
+						<answer>almost every day</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0403B_Q3.mp3|What did they buy?</question>
+						<option>an Indian rug</option>
+						<option>an Indian painting</option>
+						<option>an Indian ring</option>
+						<answer>an Indian rug</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>Santa Fe</option>
+						<option>a week.</option>
+						<option>We</option>
+						<option>stayed</option>
+						<option>in</option>
+						<option>for</option>
+						<answer>We stayed in Santa Fe for a week.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>went</option>
+						<option>We</option>
+						<option>hiking</option>
+						<option>every</option>
+						<option>almost</option>
+						<option>day.</option>
+						<answer>We went hiking almost every day.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>a lot</option>
+						<option>I</option>
+						<option>took</option>
+						<option>of</option>
+						<option>pictures.</option>
+						<answer>I took a lot of pictures.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0403C.jpg</image>
+				<audio>NDE0403C.mp3</audio>
+				<viewscript>Kathy: What did you do in the evening?
+				
+Simon: We went out to dinner. We ate in a lot of wonderful restaurants. And one night we went to the opera.
+
+Kathy: The opera?
+
+Simon: Yes, Santa Fe has a very good opera company.
+
+Kathy: Did you fly to Santa Fe?
+
+Simon: No, we didn't. We flew to Albuquerque. Albuquerque is a big city near Santa Fe. We rented a car in Albuquerque and then we drove to Santa Fe. It was a very beautiful drive.
+
+Kathy:	How long did it take?
+
+Simon:	Oh, it took about two hours, but we stopped to take pictures.</viewscript>
+				<comprehension>
+					<title>Lesson 3-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What did they do in the evening?</question>
+						<option>They went out to dinner.</option>
+						<option>They went to the opera every night.</option>
+						<option>They made dinner.</option>
+						<answer>They went out to dinner.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How did they get to Santa Fe?</question>
+						<option>They flew to a nearby city and then rented a car.</option>
+						<option>They drove to Santa Fe.</option>
+						<option>They flew directly to Santa Fe.</option>
+						<answer>They flew to a nearby city and then rented a car.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How long did it take them to drive from Albuquerque to Santa Fe?</question>
+						<option>about two hours</option>
+						<option>about two days</option>
+						<option>They didn't drive. They went by plane.</option>
+						<answer>about two hours</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>We ___ in a lot of wonderful restaurants.</question>
+						<option>ate</option>
+						<option>are eating</option>
+						<option>were eating</option>
+						<answer>ate</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>We rented a car and _____ to Santa Fe.</question>
+						<option>drove</option>
+						<option>drive</option>
+						<option>driving</option>
+						<answer>drove</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>It took about two hours, but we stopped to ____ pictures.</question>
+						<option>take</option>
+						<option>make</option>
+						<option>have</option>
+						<answer>take</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0403_bonus.jpg</image>
+				<audio>NDE0403_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm at the White House in Washington, D.C. Excuse me, ma'am?
+				
+Patricia: Yes?
+
+Kent: May I ask you a few questions?
+
+Patricia: Certainly.
+
+Kent: What's your name?
+
+Patricia: Patricia Nolan.
+
+Kent: So, Patricia, did you enjoy your tour of the White House?  
+
+Patricia: Yes, I did.
+
+Kent: What did you see?
+
+Patricia: I saw the Rose Garden...and I saw the President!
+
+Kent: The President!
+
+Patricia: Yes.  I took his picture. And then he... he...
+
+Kent: What did he do?
+
+Patricia: He shook my hand!
+
+Kent: And what did you do?
+
+Patricia: I almost fainted!
+
+Kent: Wow! Well, thanks for talking with me.
+
+Patricia: Thank you, Kent.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who lives in the White House in Washington DC?</question>
+						<option>The President of the United States</option>
+						<option>Patricia Nolan</option>
+						<option>Kent Moss</option>
+						<answer>The President of the United States</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which happened first?</question>
+						<option>Patricia saw the Rose Garden.</option>
+						<option>Patricia took a picture of the President.</option>
+						<option>Patricia shook the President's hand.</option>
+						<answer>Patricia saw the Rose Garden.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What happened after Patricia shook the President's hand?</question>
+						<option>She almost fainted.</option>
+						<option>She told the President about her family.</option>
+						<option>She kissed him.</option>
+						<answer>She almost fainted.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>___ you enjoy your tour of the White House?</question>
+						<option>Did</option>
+						<option>Are</option>
+						<option>How</option>
+						<answer>Did</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I saw the President and I ____ his picture.</question>
+						<option>took</option>
+						<option>takes</option>
+						<option>take</option>
+						<answer>took</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>What did you __ after he shook your hand?</question>
+						<option>do</option>
+						<option>make</option>
+						<option>have</option>
+						<answer>do</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="4">
+		<title>Unit 4: How do you spend your day?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0404A.jpg</image>
+				<audio>NDE0404A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Diane Owens. Welcome to New Dynamic English, Diane.
+
+Diane: Thank you. It's great to be here.
+
+Kathy: Well, Diane. Tell us a bit about yourself.
+
+Diane: I'm married and I have two children: Deborah and Rachel. My husband Dick drives a taxi.
+
+Kathy: Let's talk about your day. How do you spend your day?
+
+Diane: Well, let's see. Today, for example, I got up early, at six thirty. And I cooked breakfast.
+
+Kathy: What time did your kids get up?
+
+Diane: They got up at six forty-five. Well, I woke them up at six thirty, but they didn't get out of bed until six forty-five. We all ate breakfast together, at... around seven.
+
+Kathy: And then what did you do... after breakfast?
+
+Diane: I drove my kids to school. Their school starts at eight... eight o'clock.</viewscript>
+				<comprehension>
+					<title>Lesson 4-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Which of these sentences does not describe Diane Owens?</question>
+						<option>She doesn't have any children.</option>
+						<option>She has two children.</option>
+						<option>Her husband drives a taxi.</option>
+						<answer>She doesn't have any children.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What time did Diane get up this morning?</question>
+						<option>6:30 a.m.</option>
+						<option>6:45 a.m.</option>
+						<option>7:00 a.m.</option>
+						<answer>6:30 a.m.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What did she do after breakfast?</question>
+						<option>She drove her kids to school.</option>
+						<option>She cleaned her house.</option>
+						<option>She went shopping.</option>
+						<answer>She drove her kids to school.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>How do you _____ your day?</question>
+						<option>spend</option>
+						<option>take</option>
+						<option>make</option>
+						<answer>spend</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What time ___ your kids get up?</question>
+						<option>did</option>
+						<option>had</option>
+						<option>does</option>
+						<answer>did</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>They didn't _______ of bed until 6:45.</question>
+						<option>get out</option>
+						<option>get up</option>
+						<option>go out</option>
+						<answer>get out</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0404B.jpg</image>
+				<audio>NDE0404B.mp3</audio>
+				<viewscript>Kathy: And what did you do after you drove your kids to school?
+
+Diane: I went shopping with a friend of mine, Mary.
+
+Kathy: What did you buy?
+
+Diane: I bought some clothes for my children.
+
+Kathy: Did you buy anything for yourself?
+
+Diane: No, I didn't. But I tried on a few things.
+
+Kathy: So you went shopping this morning... and bought some clothes for your children. What did you do after that?
+
+Diane: After that, my friend Mary and I went to our health club. We were there for about an hour. It's a great way to stay healthy. And Mary is trying to lose weight.
+
+Kathy: And then...?
+
+Diane: We had lunch together ... and then I went home.
+
+Kathy: What did you do at home?
+
+Diane: I cleaned the house and then I picked up my kids at school.</viewscript>
+				<comprehension>
+					<title>Lesson 4-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0404B_Q1.mp3|What did Diane buy when she went shopping?</question>
+						<option>some clothes for her children</option>
+						<option>some clothes for herself</option>
+						<option>some clothes for her friend</option>
+						<answer>some clothes for her children</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>: NDE0404B_Q2.mp3|What did Diane and her friend do after they went shopping?</question>
+						<option>They went to their health club.</option>
+						<option>They went out to lunch.</option>
+						<option>They went home.</option>
+						<answer>They went to their health club.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0404B_Q3.mp3|What did Diane do after she came home?</question>
+						<option>She cleaned her house.</option>
+						<option>She cooked dinner.</option>
+						<option>She ate lunch.</option>
+						<answer>She cleaned her house.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>my children.</option>
+						<option>I</option>
+						<option>bought</option>
+						<option>some</option>
+						<option>clothes</option>
+						<option>for</option>
+						<answer>I bought some clothes for my children.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>the health club</option>
+						<option>about an hour.</option>
+						<option>We</option>
+						<option>were</option>
+						<option>at</option>
+						<option>for</option>
+						<answer>We were at the health club for about an hour.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>the house,</option>
+						<option>my kids</option>
+						<option>and then</option>
+						<option>I picked up</option>
+						<option>at school.</option>
+						<option>I cleaned</option>
+						<answer>I cleaned the house, and then I picked up my kids at school.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0404C.jpg</image>
+				<audio>NDE0404C.mp3</audio>
+				<viewscript>Kathy: We're back with our guest, Diane Owens. Tell us, Diane, what are you going to do this evening?
+
+Diane: This evening, I'm going to attend my art class.
+
+Kathy: Your art class?
+
+Diane: Yes, I'm studying painting.
+
+Kathy: How often do you go to your art class?
+
+Diane: I go twice a week.
+
+Kathy: How are you doing?
+
+Diane: Well, my teacher says that I'm doing very well. And I enjoy it a lot.</viewscript>
+				<comprehension>
+					<title>Lesson 4-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is Diane going to do this evening?</question>
+						<option>She's going to attend her art class.</option>
+						<option>She's going to cook dinner.</option>
+						<option>She is going to go out to dinner.</option>
+						<answer>She's going to attend her art class.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How often does she go to art class?</question>
+						<option>twice a week</option>
+						<option>once a week</option>
+						<option>three times a week</option>
+						<answer>twice a week</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How well is she doing in her art class?</question>
+						<option>She's doing very well.</option>
+						<option>She's not doing very well.</option>
+						<option>She's having trouble, but she enjoys the class.</option>
+						<answer>She's doing very well.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>This evening, I'm ________ attend my art class.</question>
+						<option>going to</option>
+						<option>going</option>
+						<option>will</option>
+						<answer>going to</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>_________ do you go to your art class?</question>
+						<option>How often</option>
+						<option>How many times</option>
+						<option>How much time</option>
+						<answer>How often</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>My teacher says that I'm _____ very well.</question>
+						<option>doing</option>
+						<option>do</option>
+						<option>going</option>
+						<answer>doing</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="5">
+		<title>Unit 5: What are you going to do this weekend?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0405A.jpg</image>
+				<audio>NDE0405A.mp3</audio>
+				<viewscript>Kathy: Today we're talking with Pat Miller. Hello, Pat.
+
+Pat: Hi, Kathy.
+
+Kathy: So Pat, what are you going to do this weekend? Do you have any plans?
+
+Pat: Yes, I do. I'm going to go to Philadelphia.
+
+Kathy: Philadelphia? What's happening in Philadelphia?
+
+Pat: A friend of mine is going to be in a play. I'm going to see the play on Saturday night.
+
+Kathy: What kind of play is it?
+
+Pat: It's a drama. It's about young Abraham Lincoln.
+
+Kathy: If the play's on Saturday night, when are you going to leave Washington?
+
+Pat: I'm going to leave on Saturday morning.
+
+Kathy: How are you going to get to Philadelphia?
+
+Pat: I'm going to take the train. It takes about two... two and a half hours. And my friend is going to meet me at the station.</viewscript>
+				<comprehension>
+					<title>Lesson 5-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is Pat going to do this weekend?</question>
+						<option>She's going to go to Philadelphia.</option>
+						<option>She's going to be in a play.</option>
+						<option>She's going to go to Washington.</option>
+						<answer>She's going to go to Philadelphia.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What kind of play is she going to see?</question>
+						<option>a drama</option>
+						<option>a comedy</option>
+						<option>a thriller</option>
+						<answer>a drama</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How is she getting to Philadelphia?</question>
+						<option>She's going to go by train.</option>
+						<option>She's going to drive.</option>
+						<option>She's going to fly.</option>
+						<answer>She's going to go by train.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>A friend of mine is _____ to be in a play.</question>
+						<option>going</option>
+						<option>go</option>
+						<option>goes</option>
+						<answer>going</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>When _____________ to leave Washington?</question>
+						<option>are you going</option>
+						<option>going</option>
+						<option>are going</option>
+						<answer>are you going</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>___ are you going to get to Philadelphia?</question>
+						<option>How</option>
+						<option>What</option>
+						<option>Where</option>
+						<answer>How</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0405B.jpg</image>
+				<audio>NDE0405B.mp3</audio>
+				<viewscript>Kathy: We're talking with Pat Miller. Pat is going to go to Philadelphia this Saturday. Pat, your friend is going to meet you when you arrive in Philadelphia.
+
+Pat: Yes. And then we're going to have lunch together.
+
+Kathy: What time does the play start?
+
+Pat: It starts at eight o'clock.
+
+Kathy: What are you going to do before the play?
+
+Pat: We're going to eat dinner at a small restaurant near the theater.
+
+Kathy: Are you going to spend the night in Philadelphia?
+
+Pat: Yes, I'm going to stay at my friend's apartment.</viewscript>
+				<comprehension>
+					<title>Lesson 5-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0405B_Q1.mp3|What is Pat going to do when she arrives in Philadelphia?</question>
+						<option>She's going to meet her friend for lunch.</option>
+						<option>She's going to go to a play.</option>
+						<option>She's going to have dinner.</option>
+						<answer>She's going to meet her friend for lunch.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0405B_Q2.mp3|What is she going to do before the play?</question>
+						<option>eat dinner</option>
+						<option>go shopping</option>
+						<option>have lunch</option>
+						<answer>eat dinner</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0405B_Q3.mp3|Where is she going to spend the night?</question>
+						<option>at her friend's apartment</option>
+						<option>at a hotel</option>
+						<option>in Washington</option>
+						<answer>at her friend's apartment</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>is going to</option>
+						<option>Your friend</option>
+						<option>you arrive.</option>
+						<option>meet</option>
+						<option>you</option>
+						<option>when</option>
+						<answer>Your friend is going to meet you when you arrive.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>are you</option>
+						<option>to do</option>
+						<option>the play?</option>
+						<option>What</option>
+						<option>going</option>
+						<option>before</option>
+						<answer>What are you going to do before the play?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>to stay</option>
+						<option>my friend's</option>
+						<option>I'm</option>
+						<option>going</option>
+						<option>at</option>
+						<option>apartment.</option>
+						<answer>I'm going to stay at my friend's apartment.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0405C.jpg</image>
+				<audio>NDE0405C.mp3</audio>
+				<viewscript>Kathy: Are you going to spend the night in Philadelphia?
+
+Pat: Yes, I'm going to stay at my friend's apartment.
+
+Kathy: Are you going to spend Sunday in Philadelphia?
+
+Pat: No, I'm not. I'm going to go back to Washington on Sunday morning. I'm not going to stay in Philadelphia.
+
+Kathy: Why not? Why aren't you going to stay?
+
+Pat: I can't stay because I have a rehearsal in Washington on Sunday night.
+
+Kathy: Sounds like you're really busy!</viewscript>
+				<comprehension>
+					<title>Lesson 5-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How many nights is she going to spend in Philadelphia?</question>
+						<option>1 night: Saturday</option>
+						<option>2 nights: Saturday and Sunday</option>
+						<option>She isn't going to spend the night in Philadelphia.</option>
+						<answer>1 night: Saturday</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>When is she going to go back to Washington?</question>
+						<option>Sunday morning</option>
+						<option>Saturday night</option>
+						<option>Sunday night</option>
+						<answer>Sunday morning</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Why isn't she going to spend Sunday in Philadelphia?</question>
+						<option>She has to get back to Washington for a rehearsal.</option>
+						<option>She doesn't like Philadelphia.</option>
+						<option>Philadelphia is too expensive.</option>
+						<answer>She has to get back to Washington for a rehearsal.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I'm going to go back to Washington __ Sunday morning.</question>
+						<option>on</option>
+						<option>the</option>
+						<option>at</option>
+						<answer>on</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>_______ going to stay in Philadelphia.</question>
+						<option>I'm not</option>
+						<option>I aren't</option>
+						<option>I won't</option>
+						<answer>I'm not</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Why ______ you going to stay in Philadelphia?</question>
+						<option>aren't</option>
+						<option>not</option>
+						<option>won't</option>
+						<answer>aren't</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="6">
+		<title>Unit 6: Are you going to take a vacation?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0406A.jpg</image>
+				<audio>NDE0406A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Bob Harris. Bob is a postal worker, and he lives in Miami, Florida. Hi, Bob. Welcome back.
+
+Bob: Thank you, Kathy.
+
+Kathy: Today we're going to talk about summer vacations. Bob, did you take a vacation last year?
+
+Bob: Yes, we did. We drove around Florida. And four years ago we went to Hawaii for a week.
+
+Kathy: Where did you stay? Where did you stay in Hawaii?
+
+Bob: We stayed in a big hotel near the beach, the Flamingo Hotel, I think it was.
+
+Kathy: Did you have a good time?
+
+Bob: Yes, we did. We all did. We went swimming every day. The weather was beautiful! And Collette went surfing.
+
+Kathy: Did you go surfing too?
+
+Bob: No, I didn't, but John did. He's a good surfer, but not as good as Collette.</viewscript>
+				<comprehension>
+					<title>Lesson 6-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When did Bob and his family go to Hawaii?</question>
+						<option>four years ago</option>
+						<option>last year</option>
+						<option>They go every year.</option>
+						<answer>four years ago</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where did they stay in Hawaii?</question>
+						<option>at a big hotel near the beach</option>
+						<option>at a small hotel in the mountains</option>
+						<option>They rented an apartment.</option>
+						<answer>at a big hotel near the beach</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who went surfing in Hawaii?</question>
+						<option>Both John and Collette went surfing.</option>
+						<option>The whole family went surfing.</option>
+						<option>John did, but Collette didn't.</option>
+						<answer>Both John and Collette went surfing.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Did you ____ a vacation last year?</question>
+						<option>take</option>
+						<option>do</option>
+						<option>make</option>
+						<answer>take</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Did you ____ a good time?</question>
+						<option>have</option>
+						<option>make</option>
+						<option>do</option>
+						<answer>have</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>John's a good surfer, but he's not _______ as Collette.</question>
+						<option>as good</option>
+						<option>too good</option>
+						<option>very good</option>
+						<answer>as good</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0406B.jpg</image>
+				<audio>NDE0406B.mp3</audio>
+				<viewscript>Kathy: Tell me, Bob, are you going to take a vacation this year?
+
+Bob: Yes, we are.
+
+Kathy: Where are you going to go?
+
+Bob: We're going to go to Alaska.
+
+Kathy: Alaska?  Isn't it cold in Alaska?
+
+Bob: Not in the summer. In the summer, the weather in Alaska is warm and comfortable.
+
+Kathy: When are you going to go there?
+
+Bob: In July.</viewscript>
+				<comprehension>
+					<title>Lesson 6-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0406B_Q1.mp3|Where are Bob and his family going to go this year?</question>
+						<option>They're going to go to Alaska.</option>
+						<option>They're not going to go anywhere.</option>
+						<option>They are going in July.</option>
+						<answer>They're going to go to Alaska.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0406B_Q2.mp3|What is the weather like in Alaska in the summer?</question>
+						<option>warm and comfortable</option>
+						<option>very cold</option>
+						<option>hot and humid</option>
+						<answer>warm and comfortable</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0406B_Q3.mp3|When are Bob and his family going to go to Alaska?</question>
+						<option>in July</option>
+						<option>in the winter</option>
+						<option>next year</option>
+						<answer>in July</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>to take</option>
+						<option>a vacation</option>
+						<option>this year?</option>
+						<option>Are</option>
+						<option>you</option>
+						<option>going</option>
+						<answer>Are you going to take a vacation this year?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>to go</option>
+						<option>We're</option>
+						<option>going</option>
+						<option>to</option>
+						<option>Alaska.</option>
+						<answer>We're going to go to Alaska.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>going to</option>
+						<option>When</option>
+						<option>are</option>
+						<option>you</option>
+						<option>go</option>
+						<option>there?</option>
+						<answer>When are you going to go there?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0406C.jpg</image>
+				<audio>NDE0406C.mp3</audio>
+				<viewscript>Kathy: How are you going to get there?  Are you going to fly?
+
+Bob: Well, first we're going to fly to Seattle, Washington. And then we're going to take the Alaska Ferry.
+
+Kathy: The Alaska Ferry?
+
+Bob: Yes, the Alaska Ferry is a boat that goes along the coast of Alaska. It goes from Seattle, Washington, to Anchorage, Alaska. You can see all kinds of beautiful scenery. You can even see whales!
+
+Kathy: That sounds like a wonderful vacation!
+
+Bob: Yes. We're really looking forward to it.</viewscript>
+				<comprehension>
+					<title>Lesson 6-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How are they going to get to Alaska?</question>
+						<option>by airplane and boat</option>
+						<option>by boat</option>
+						<option>by car</option>
+						<answer>by airplane and boat</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where will they get on the Alaska Ferry?</question>
+						<option>Seattle, Washington</option>
+						<option>Anchorage, Alaska</option>
+						<option>Miami, Florida</option>
+						<answer>Seattle, Washington</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Is Bob looking forward to the vacation?</question>
+						<option>Yes, he is.</option>
+						<option>No, he isn't.</option>
+						<option>He doesn't like to travel.</option>
+						<answer>Yes, he is.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Are you going to ___?</question>
+						<option>fly</option>
+						<option>flying</option>
+						<option>flew</option>
+						<answer>fly</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>The Alaska Ferry is a boat that ____ along the coast of Alaska.</question>
+						<option>goes</option>
+						<option>go</option>
+						<option>going</option>
+						<answer>goes</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>You can ___ all kinds of beautiful scenery.</question>
+						<option>see</option>
+						<option>to see</option>
+						<option>seeing</option>
+						<answer>see</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0406_bonus.jpg</image>
+				<audio>NDE0406_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. I'm in downtown Washington, DC. Excuse me, sir.
+
+Painter: Yes?
+
+Kent: I see that you're carrying a paintbrush and some paint. What are you going to do?
+
+Painter: Do you see that wall?
+
+Kent: Yes. It looks very dirty.
+
+Painter: Yes, and there's graffiti all over it. I'm going to paint it.
+
+Kent: I see. What color are you going to paint it?
+
+Painter: I'm going to paint it yellow.
+
+Kent: And then what are you going to do?
+
+Painter: Then I'm going to paint a sign on the wall.
+
+Kent: And what's the sign going to say?
+
+Painter: It's going to say: "Do not write on this wall."
+
+Kent: And do you think people are going to stop writing graffiti?
+
+Painter: Hmmm. That's a good question. I don't know.
+
+Kent: Well, good luck. Thanks for talking with me.
+
+Painter: You're welcome.  Now I've got to get to work.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is the man going to do?</question>
+						<option>He's going to paint a wall.</option>
+						<option>He's going to paint a house.</option>
+						<option>He's going paint a picture.</option>
+						<answer>He's going to paint a wall.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What color paint is he going to use?</question>
+						<option>yellow</option>
+						<option>red</option>
+						<option>white</option>
+						<answer>yellow</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What is the sign going to say?</question>
+						<option>Do not write on this wall.</option>
+						<option>Do not paint this wall.</option>
+						<option>Do not stand in front of this wall.</option>
+						<answer>Do not write on this wall.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What color ___ you going to paint the wall?</question>
+						<option>are</option>
+						<option>is</option>
+						<option>do</option>
+						<answer>are</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I'm _____ to paint a sign on the wall.</question>
+						<option>going</option>
+						<option>go</option>
+						<option>to go</option>
+						<answer>going</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Do you think people are going _______ writing graffiti?</question>
+						<option>to stop</option>
+						<option>stop</option>
+						<option>will stop</option>
+						<answer>to stop</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="7">
+		<title>Unit 7: Jupiter is the largest planet</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0407A.jpg</image>
+				<audio>NDE0407A.mp3</audio>
+				<viewscript>Max: Hi, Kathy. Who's our guest today?
+
+Kathy: Martha Harris, the mystery writer.
+
+Max: Oh, yes. She lives here in Washington. And what are we going to talk about?
+
+Kathy: She's going to talk about a lecture that she went to last night.
+
+Max: What was it about?
+
+Kathy: It was about the Earth and the other planets. You know, the solar system.
+
+Max: Oh, I studied about the solar system in high school.
+
+Kathy:	I did too. I studied about the Sun... and about the planets that travel around the Sun.
+
+Max: And what is the largest planet?
+
+Kathy: It's Jupiter. Jupiter is the largest planet.
+
+Max: Very good.
+
+Kathy: OK. Max, your turn. What is the second largest planet?
+
+Max: The second largest? Saturn? Is it Saturn?
+
+Kathy: Yes. Saturn is the second largest planet.</viewscript>
+				<comprehension>
+					<title>Lesson 7-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is the solar system?</question>
+						<option>the Earth and the other planets that travel around the Sun</option>
+						<option>the Earth and the Sun</option>
+						<option>the Earth, Saturn, and  Jupiter</option>
+						<answer>the Earth and the other planets that travel around the Sun</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What is the largest planet in our solar system?</question>
+						<option>Jupiter</option>
+						<option>Saturn</option>
+						<option>Earth</option>
+						<answer>Jupiter</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What is the second largest planet?</question>
+						<option>Jupiter</option>
+						<option>Saturn</option>
+						<option>Earth</option>
+						<answer>Saturn</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I _______ about the solar system in high school.</question>
+						<option>studied</option>
+						<option>was study</option>
+						<option>study</option>
+						<answer>studied</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What is ___________ planet?</question>
+						<option>the largest</option>
+						<option>largest</option>
+						<option>the most largest</option>
+						<answer>the largest</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Saturn is the ______ largest planet.</question>
+						<option>second</option>
+						<option>number two</option>
+						<option>twice</option>
+						<answer>second</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0407B.jpg</image>
+				<audio>NDE0407B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Martha Harris. Hello, Martha.
+
+Martha:	Hi, Kathy.
+
+Kathy: Last night you and your husband attended a lecture about the solar system. Was the lecture about all the planets that travel around the Sun?
+
+Martha:	No. It was about three planets... The three planets that are closest to the Sun. Mercury is the closest planet to the Sun. The second closest is Venus. The Earth is the third closest planet to the Sun.</viewscript>
+				<comprehension>
+					<title>Lesson 7-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0407B_Q1.mp3|What did Martha and her husband do last night?</question>
+						<option>They went to a lecture about the solar system.</option>
+						<option>They went to a museum.</option>
+						<option>They read a book about the planets.</option>
+						<answer>They went to a lecture about the solar system.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0407B_Q2.mp3|What are Mercury, Venus and the Earth?</question>
+						<option>the 3 planets closest to the Sun</option>
+						<option>the 3 largest planets</option>
+						<option>the 3 planets furthest from the Sun</option>
+						<answer>the 3 planets closest to the Sun</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0407B_Q3.mp3|Which planet is closest to the Sun?</question>
+						<option>Mercury</option>
+						<option>Venus</option>
+						<option>Earth</option>
+						<answer>Mercury</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>and her husband</option>
+						<option>a lecture</option>
+						<option>the solar system.</option>
+						<option>Martha</option>
+						<option>attended</option>
+						<option>about</option>
+						<answer>Martha and her husband attended a lecture about the solar system.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>was about</option>
+						<option>The lecture</option>
+						<option>the three planets</option>
+						<option>that are</option>
+						<option>to the Sun.</option>
+						<option>closest</option>
+						<answer>The lecture was about the three planets that are closest to the Sun.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>The Earth</option>
+						<option>the third</option>
+						<option>to the Sun.</option>
+						<option>is</option>
+						<option>closest</option>
+						<option>planet</option>
+						<answer>The Earth is the third closest planet to the Sun.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0407C.jpg</image>
+				<audio>NDE0407C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Martha Harris. Last night, Martha went to a lecture about the solar system. It was about the three planets that are closest to the Sun.
+
+Martha:	That's right: Mercury, Venus, and the Earth.
+
+Kathy: Did the lecturer talk about life on other planets?
+
+Martha:	No, she didn't. The Earth is the only planet where life exists.
+
+Kathy: Is Venus bigger than the Earth?
+
+Martha:	No, it isn't. It's smaller.
+
+Kathy: What about Mercury? Is it bigger? Is it bigger than the Earth?
+
+Martha:	No, it isn't. Mercury is smaller than either Venus or the Earth. Mercury is the second smallest planet.</viewscript>
+				<comprehension>
+					<title>Lesson 7-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Which is the only planet where life exists?</question>
+						<option>the Earth</option>
+						<option>Mercury</option>
+						<option>Venus</option>
+						<answer>the Earth</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Is Venus bigger than the Earth, or it is smaller?</question>
+						<option>It is smaller.</option>
+						<option>It is bigger.</option>
+						<option>Both planets are the same size.</option>
+						<answer>It is smaller.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Which planet is smaller, Mercury or Venus?</question>
+						<option>Mercury is smaller.</option>
+						<option>Venus is smaller.</option>
+						<option>The Earth is smaller than either Mercury or Venus.</option>
+						<answer>Mercury is smaller.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>The Earth is the only planet _____ life exists.</question>
+						<option>where</option>
+						<option>that</option>
+						<option>which</option>
+						<answer>where</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Is Venus ______ than the Earth?</question>
+						<option>bigger</option>
+						<option>more big</option>
+						<option>biggest</option>
+						<answer>bigger</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Mercury is smaller ____ either Venus or the Earth.</question>
+						<option>than</option>
+						<option>to</option>
+						<option>of</option>
+						<answer>than</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="8">
+		<title>Unit 8: What does a plant need?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0408A.jpg</image>
+				<audio>NDE0408A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Richard Chen. How are you today?
+
+Richard: Fine.
+
+Kathy: Why do you have that plant with you?
+
+Richard: I'm going to my son's school. I'm going to teach a lesson about science.
+
+Kathy: Really?
+
+Richard: And I'm going to ask the children some questions about plants.
+
+Kathy: Questions?
+
+Richard: Yes. For example, what does a plant need? What do you think, Kathy? What does a plant need to live?
+
+Kathy: Water?
+
+Richard: Yes, a plant needs water. If a plant doesn't get enough water, it dies. What else?  What else does a plant need?
+
+Kathy: Uh,... light? Sunlight?
+
+Richard: Yes, a plant needs light. If a plant is in a dark room, what happens?
+
+Kathy: The plant dies.
+
+Richard: Yes, the plant dies. Plants need light. If a plant doesn't get enough light, it dies.</viewscript>
+				<comprehension>
+					<title>Lesson 8-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Why does Richard have a plant with him?</question>
+						<option>He's going to teach a lesson about plants.</option>
+						<option>He's going to plant it in his garden.</option>
+						<option>It is a gift for Kathy.</option>
+						<answer>He's going to teach a lesson about plants.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What does a plant need to live?</question>
+						<option>both water and light</option>
+						<option>water</option>
+						<option>light</option>
+						<answer>both water and light</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What happens to a plant if it is in a dark room?</question>
+						<option>It dies.</option>
+						<option>It grows very slowly.</option>
+						<option>Its leaves fall off.</option>
+						<answer>It dies.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What does a plant ____ to live?</question>
+						<option>need</option>
+						<option>needs</option>
+						<option>is needed</option>
+						<answer>need</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>If a plant doesn't get ______ water, it dies.</question>
+						<option>enough</option>
+						<option>too much</option>
+						<option>too many</option>
+						<answer>enough</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>What happens __ a plant is in a dark room?</question>
+						<option>if</option>
+						<option>then</option>
+						<option>so</option>
+						<answer>if</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0408B.jpg</image>
+				<audio>NDE0408B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Richard Chen. He's talking about plants.
+
+Richard: OK, Kathy. What else does a plant need?
+
+Kathy: Hmmm...
+
+Richard: Well, what happens if you put a plant in a very cold place?
+
+Kathy: It... dies.
+
+Richard: Yes. A plant needs heat. If a plant doesn't get enough heat, it dies.
+
+Kathy: Some plants die in the winter, if the weather gets too cold.
+
+Richard: Yes, that's right. So plants need water, and sunlight, and heat.</viewscript>
+				<comprehension>
+					<title>Lesson 8-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0408B_Q1.mp3|In addition to water and light, what else does a plant need to live?</question>
+						<option>heat</option>
+						<option>sunlight</option>
+						<option>nothing</option>
+						<answer>heat</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0408B_Q2.mp3|What happens if a plant doesn't get enough heat?</question>
+						<option>The plant dies.</option>
+						<option>It needs water and sunlight.</option>
+						<option>Plants need heat.</option>
+						<answer>The plant dies.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0408B_Q3.mp3|Why do some plants die in winter?</question>
+						<option>The weather is too cold.</option>
+						<option>There's not enough light.</option>
+						<option>There's too much heat.</option>
+						<answer>The weather is too cold.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>What happens</option>
+						<option>a plant</option>
+						<option>if you</option>
+						<option>very cold room?</option>
+						<option>put</option>
+						<option>in a</option>
+						<answer>What happens if you put a plant in a very cold room?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>If a plant</option>
+						<option>it dies.</option>
+						<option>doesn't</option>
+						<option>get</option>
+						<option>enough</option>
+						<option>heat,</option>
+						<answer>If a plant doesn't get enough heat, it dies.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>Some plants</option>
+						<option>in the winter,</option>
+						<option>too cold.</option>
+						<option>if the weather</option>
+						<option>die</option>
+						<option>gets</option>
+						<answer>Some plants die in the winter, if the weather gets too cold.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0408C.jpg</image>
+				<audio>NDE0408C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Richard Chen. He's talking about plants. Richard, people need air to live. If we don't get enough air, we die. Do plants also need air?
+
+Richard: Yes, they do. Without air, plants can't live. If plants don't get enough air, they die.</viewscript>
+				<comprehension>
+					<title>Lesson 8-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Do both people and plants need air to live?</question>
+						<option>Yes, they both do.</option>
+						<option>People do, but plants don't.</option>
+						<option>Some plants can live without air.</option>
+						<answer>Yes, they both do.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What is one reason why plants die?</question>
+						<option>They don't get enough air.</option>
+						<option>They get too much air.</option>
+						<option>The air is too warm.</option>
+						<answer>They don't get enough air.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Which of these statements is not true?</question>
+						<option>If plants get enough air, they won't die.</option>
+						<option>People need air to live.</option>
+						<option>Plants cannot live without air.</option>
+						<answer>If plants get enough air, they won't die.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>__ we don't get enough air, we die.</question>
+						<option>If</option>
+						<option>Unless</option>
+						<option>That</option>
+						<answer>If</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>_______ air, plants can't live.</question>
+						<option>Without</option>
+						<option>Except for</option>
+						<option>With enough</option>
+						<answer>Without</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>If plants _________ enough air, they die.</question>
+						<option>don't get</option>
+						<option>get</option>
+						<option>not get</option>
+						<answer>don't get</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="9">
+		<title>Unit 9: Where were you born?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0409A.jpg</image>
+				<audio>NDE0409A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. Hello, Maria.
+
+Maria: Hello, Kathy.
+
+Kathy: Maria, your parents come from Mexico, don't they?
+
+Maria: Yes, they do. They were born in Mexico.
+
+Kathy: Were you born in Mexico?
+
+Maria: No, I wasn't. I was born in the United States, in California. My parents came to the U.S. before I was born.
+
+Kathy: So you're an American citizen.
+
+Maria: That's right. I was born in the United States, so I'm an American citizen.</viewscript>
+				<comprehension>
+					<title>Lesson 9-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where was Maria born?</question>
+						<option>in the United States</option>
+						<option>in Mexico</option>
+						<option>in New Mexico</option>
+						<answer>in the United States</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where were her parents born?</question>
+						<option>in Mexico</option>
+						<option>in the United States</option>
+						<option>in California</option>
+						<answer>in Mexico</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who is an American citizen?</question>
+						<option>Maria</option>
+						<option>her father</option>
+						<option>her mother</option>
+						<answer>Maria</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Maria's parent ____ born in Mexico.</question>
+						<option>were</option>
+						<option>was</option>
+						<option>are</option>
+						<answer>were</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>____ you born in Mexico?</question>
+						<option>Were</option>
+						<option>Was</option>
+						<option>Are</option>
+						<answer>Were</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I ________ in the US, so I'm an American citizen.</question>
+						<option>was born</option>
+						<option>am born</option>
+						<option>born</option>
+						<answer>was born</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0409B.jpg</image>
+				<audio>NDE0409B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. Maria, your parents live in the United States. Where do your grandparents live?
+
+Maria: My father's parents live in Mexico, near Mexico City.
+
+Kathy: When was the last time you saw them?
+
+Maria: I went to Mexico three years ago to visit them.
+
+Kathy: What about your mother's parents?
+
+Kathy: Do they live in Mexico too?
+
+Maria: No, they don't. My grandfather lives in California. He lives near us, in San Jose. My grandmother died when I was a child.</viewscript>
+				<comprehension>
+					<title>Lesson 9-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0409B_Q1.mp3|Where do Maria's parents live?</question>
+						<option>in the United States</option>
+						<option>in Mexico</option>
+						<option>They were born in Mexico.</option>
+						<answer>in the United States</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0409B_Q2.mp3|Do her grandparents live in Mexico?</question>
+						<option>Her father's parents live in Mexico.</option>
+						<option>Her grandparents live in California.</option>
+						<option>Yes, they do.</option>
+						<answer>Her father's parents live in Mexico.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0409B_Q3.mp3|When did Maria last go to Mexico?</question>
+						<option>She went to Mexico three years ago.</option>
+						<option>She has never been to Mexico.</option>
+						<option>She goes to Mexico every year.</option>
+						<answer>She went to Mexico three years ago.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>grandparents</option>
+						<option>Where</option>
+						<option>do</option>
+						<option>live?</option>
+						<option>your</option>
+						<answer>Where do your grandparents live?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>the last time</option>
+						<option>When was</option>
+						<option>grandparents?</option>
+						<option>you</option>
+						<option>saw</option>
+						<option>your</option>
+						<answer>When was the last time you saw your grandparents?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>grandmother</option>
+						<option>My</option>
+						<option>when</option>
+						<option>died</option>
+						<option>I was</option>
+						<option>a child.</option>
+						<answer>My grandmother died when I was a child.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0409C.jpg</image>
+				<audio>NDE0409C.mp3</audio>
+				<viewscript>Kathy: Maria, did you need a visa when you visited Mexico?
+
+Maria: No, I didn't. If you're an American citizen, you don't need a visa to visit Mexico.
+
+Kathy: What if you're not an American citizen?
+
+Maria: Well, people from Canada-Canadian citizens-don't need a visa. But if you're not an American or Canadian citizen, you need a visa to visit Mexico.</viewscript>
+				<comprehension>
+					<title>Lesson 9-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Did Maria need a visa to visit Mexico?</question>
+						<option>No, she didn't.</option>
+						<option>Yes, she did.</option>
+						<option>Only if she stayed more than one month</option>
+						<answer>No, she didn't.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who doesn't need a visa to visit Mexico?</question>
+						<option>American or Canadian citizens</option>
+						<option>American citizens</option>
+						<option>Canadian citizens</option>
+						<answer>American or Canadian citizens</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Why didn't Maria need a visa to visit Mexico?</question>
+						<option>She's an American citizen.</option>
+						<option>She's from Mexico.</option>
+						<option>She lives in the United States.</option>
+						<answer>She's an American citizen.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>___ you need a visa when you visited Mexico?</question>
+						<option>Did</option>
+						<option>Do</option>
+						<option>Are</option>
+						<answer>Did</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>If you're an American citizen, you __________ a visa to visit Mexico.</question>
+						<option>don't need</option>
+						<option>need</option>
+						<option>not needed</option>
+						<answer>don't need</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>If you're not from the US or Canada, you need a visa ________ Mexico.</question>
+						<option>to visit</option>
+						<option>visit</option>
+						<option>visiting</option>
+						<answer>to visit</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0409_bonus.jpg</image>
+				<audio>NDE0409_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. I'm standing at the finish line of the Washington, D.C. Marathon. Sir? Excuse me, sir, are you all right?
+
+Earl: Yes... yes... I'm fine.
+
+Kent: May I ask your name, sir?
+
+Earl: Earl... Earl Beek.
+
+Kent: How long did it take you to run the race, Earl?
+
+Earl: Six hours and fifty-eight minutes!
+
+Kent: That's a long time to run!
+
+Earl: That's a long time to do anything, son! Am I the last person to finish?
+
+Kent: No, no, sir. There's one more runner behind you.
+
+Earl: Oh... yes... I see my friend, George, is still running! You know, he's younger than I am. But I'm faster!
+
+Kent: How old are you?
+
+Earl: I'm 79 years old!
+
+Kent: And how old is George?
+
+Earl: He's 78!
+
+Kent: Well, congratulations, Earl!
+
+Earl: Thanks!</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is a marathon?</question>
+						<option>a long race for runners</option>
+						<option>a sailboat race</option>
+						<option>a fast car race</option>
+						<answer>a long race for runners</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who was the last person to finish the race?</question>
+						<option>George</option>
+						<option>Earl</option>
+						<option>Neither George nor Earl</option>
+						<answer>George</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who is older, Earl or his friend George?</question>
+						<option>Earl</option>
+						<option>George</option>
+						<option>They are at the same age.</option>
+						<answer>Earl</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>How long ___ it take you to run the race?</question>
+						<option>did</option>
+						<option>has</option>
+						<option>do</option>
+						<answer>did</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>__ I the last person to finish?</question>
+						<option>Am</option>
+						<option>Are</option>
+						<option>Is</option>
+						<answer>Am</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>My friend George is _______ than I am.</question>
+						<option>younger</option>
+						<option>youngest</option>
+						<option>more young</option>
+						<answer>younger</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="10">
+		<title>Unit 10: The problem of pollution.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0410A.jpg</image>
+				<audio>NDE0410A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Ellen Williams. She's going to talk to us about the problem of pollution. Ellen, why is pollution a problem?
+
+Ellen: Well, for one thing, pollution makes us sick.
+
+Kathy: You mean, it's bad for our health?
+
+Ellen: That's right. Pollution causes health problems. For example, if we breathe polluted air, we get sick.
+
+Kathy: I see. And we also get sick if we drink polluted water.
+
+Ellen: Yes.
+
+Kathy: What else?
+
+Ellen: Polluted water kills animals and fish.
+
+Kathy: That's terrible!
+
+Ellen: Pollution also kills plants, and plants give us clean air.
+
+Kathy: Plants give us clean air?
+
+Ellen: Yes. Plants and trees produce the air that we breathe. Pollution kills the plants which give us clean air.</viewscript>
+				<comprehension>
+					<title>Lesson 10-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Which of these is not an example of pollution?</question>
+						<option>floods</option>
+						<option>unclean water</option>
+						<option>dirty air</option>
+						<answer>floods</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What happens if we breathe polluted air?</question>
+						<option>We get sick.</option>
+						<option>We can't breathe.</option>
+						<option>We die.</option>
+						<answer>We get sick.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Why are plants and trees important to human life?</question>
+						<option>They produce the air that we breathe.</option>
+						<option>They produce clean water to drink.</option>
+						<option>They need water to live.</option>
+						<answer>They produce the air that we breathe.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Pollution ______ health problems.</question>
+						<option>causes</option>
+						<option>is caused by</option>
+						<option>results from</option>
+						<answer>causes</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>________ water kills animals and fish.</question>
+						<option>Polluted</option>
+						<option>Pollution</option>
+						<option>Pollute</option>
+						<answer>Polluted</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Pollution kills the plants _____ give us clean air.</question>
+						<option>which</option>
+						<option>who</option>
+						<option>where</option>
+						<answer>which</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0410B.jpg</image>
+				<audio>NDE0410B.mp3</audio>
+				<viewscript>Kathy: Ellen, what causes air pollution?
+
+Ellen: There are many causes of air pollution. Automobiles are one major cause of air pollution.
+
+Kathy: What about factories? Do factories cause pollution?
+
+Ellen: Yes, factories cause lots of pollution. Factories cause air pollution. They also cause water pollution.</viewscript>
+				<comprehension>
+					<title>Lesson 10-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0410B_Q1.mp3|What is one major cause of air pollution?</question>
+						<option>automobiles</option>
+						<option>health problems</option>
+						<option>water pollution</option>
+						<answer>automobiles</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0410B_Q2.mp3|Do factories cause pollution?</question>
+						<option>Yes. They cause both air pollution and water pollution.</option>
+						<option>They cause air pollution, but not water pollution.</option>
+						<option>No, they don't.</option>
+						<answer>Yes. They cause both air pollution and water pollution.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0410B_Q3.mp3|What would happen if there were fewer automobiles?</question>
+						<option>There would be less pollution.</option>
+						<option>There would be more pollution.</option>
+						<option>Nothing would change.</option>
+						<answer>There would be less pollution.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>are one</option>
+						<option>major cause</option>
+						<option>of air</option>
+						<option>Automobiles</option>
+						<option>pollution.</option>
+						<answer>Automobiles are one major cause of air pollution.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>air pollution</option>
+						<option>and water</option>
+						<option>Factories</option>
+						<option>cause</option>
+						<option>both</option>
+						<option>pollution.</option>
+						<answer>Factories cause both air pollution and water pollution.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>causes of</option>
+						<option>There</option>
+						<option>are</option>
+						<option>many</option>
+						<option>air</option>
+						<option>pollution.</option>
+						<answer>There are many causes of air pollution.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0410C.jpg</image>
+				<audio>NDE0410C.mp3</audio>
+				<viewscript>Kathy: Do all automobiles cause pollution?
+
+Ellen: That's a good question. All automobiles cause some pollution. In general, new cars cause less pollution than old cars. And big cars usually cause more pollution than small cars.</viewscript>
+				<comprehension>
+					<title>Lesson 10-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>According to Ellen, do all automobiles cause pollution?</question>
+						<option>Yes, they do.</option>
+						<option>No, they don't.</option>
+						<option>Only old cars cause pollution.</option>
+						<answer>Yes, they do.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which cause more pollution, old cars or new cars?</question>
+						<option>old cars</option>
+						<option>new cars</option>
+						<option>They are the same.</option>
+						<answer>old cars</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Is it true that big cars usually cause more pollution than small cars?</question>
+						<option>Yes. This statement is true.</option>
+						<option>No. Large cars cause less pollution.</option>
+						<option>Pollution is not caused by automobiles.</option>
+						<answer>Yes. This statement is true.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Do all automobiles _____ pollution?</question>
+						<option>cause</option>
+						<option>cause of</option>
+						<option>causing</option>
+						<answer>cause</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>New cars cause less pollution less than ___ cars.</question>
+						<option>old</option>
+						<option>big</option>
+						<option>small</option>
+						<answer>old</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Big cars usually cause more pollution ____ small cars.</question>
+						<option>than</option>
+						<option>from</option>
+						<option>then</option>
+						<answer>than</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="11">
+		<title>Unit 11: What killed the dinosaurs?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0411A.jpg</image>
+				<audio>NDE0411A.mp3</audio>
+				<viewscript>Max: Hi, Kathy. Who's our guest today?
+
+Kathy: Denise Collins. Remember, she's the receptionist at a law firm. She's married and she has two children. This morning she took her children to the Natural History Museum.
+
+Kathy: How are you today, Denise?
+
+Denise: Fine, thanks.
+
+Kathy: Did your kids enjoy their visit to the museum?
+
+Denise: Oh, yes. They saw lots of interesting things.
+
+Kathy: What did they like best?
+
+Denise: They liked the dinosaurs best. We learned about different kinds of dinosaurs.
+
+Kathy: Dinosaurs were very big, weren't they?
+
+Denise: Not all of them were big. There were big dinosaurs and there were small dinosaurs.
+
+Kathy: What did they eat?
+
+Denise:	Most dinosaurs ate plants, but some dinosaurs ate meat.</viewscript>
+				<comprehension>
+					<title>Lesson 11-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where did Denise go with her children?</question>
+						<option>to a museum</option>
+						<option>to school</option>
+						<option>to a park</option>
+						<answer>to a museum</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Were there any small dinosaurs?</question>
+						<option>Yes, there were. Some dinosaurs were small.</option>
+						<option>No, there weren't. All dinosaurs were very large.</option>
+						<option>Most dinosaurs were very small.</option>
+						<answer>Yes, there were. Some dinosaurs were small.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What did dinosaurs eat?</question>
+						<option>Some dinosaurs ate plants, and others ate meat.</option>
+						<option>They ate plants.</option>
+						<option>They ate meat.</option>
+						<answer>Some dinosaurs ate plants, and others ate meat.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Did your kids enjoy _____ visit to the museum?</question>
+						<option>their</option>
+						<option>our</option>
+						<option>her</option>
+						<answer>their</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Dinosaurs were very big, _______ they?</question>
+						<option>weren't</option>
+						<option>aren't</option>
+						<option>can't</option>
+						<answer>weren't</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Most dinosaurs ate plants, but some dinosaurs ___ meat.</question>
+						<option>ate</option>
+						<option>eat</option>
+						<option>did</option>
+						<answer>ate</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0411B.jpg</image>
+				<audio>NDE0411B.mp3</audio>
+				<viewscript>Kathy: Denise, I have a question for you. Why did the dinosaurs die?
+
+Denise: They died because conditions changed.
+
+Kathy: What do you mean?
+
+Denise: The earth suddenly became cold and dark.
+
+Kathy: What caused the change? Why did the earth suddenly become colder?
+
+Denise: About sixty-five million years ago, a very large meteor hit the Earth.
+
+Kathy: A meteor?
+
+Denise: Yes, a rock from space. When the meteor hit the earth, dirt and dust went into the air. The dirt and dust stopped the sunlight.
+
+Denise: So without heat and light from the sun, the Earth became cold and dark.
+
+Kathy: The dinosaurs died because it was too cold?
+
+Denise: That's right.</viewscript>
+				<comprehension>
+					<title>Lesson 11-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0411B_Q1.mp3|What happened on earth about sixty-five million years ago?</question>
+						<option>A very large meteor hit the earth.</option>
+						<option>The first dinosaurs appeared on earth.</option>
+						<option>The earth became warmer.</option>
+						<answer>A very large meteor hit the earth.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0411B_Q2.mp3|Why couldn't heat and light from the sun reach the earth?</question>
+						<option>When the meteor hit the earth, dirt and dust went into the air.</option>
+						<option>The earth moved farther away from the sun.</option>
+						<option>The earth became cold and dark.</option>
+						<answer>When the meteor hit the earth, dirt and dust went into the air.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0411B_Q3.mp3|How did the dinosaurs die?</question>
+						<option>They died because the earth became too cold.</option>
+						<option>The meteor killed them.</option>
+						<option>The Earth was too hot for them.</option>
+						<answer>They died because the earth became too cold.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>the Earth</option>
+						<option>Why</option>
+						<option>did</option>
+						<option>become</option>
+						<option>colder?</option>
+						<answer>Why did the Earth become colder?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>heat and light</option>
+						<option>from the sun,</option>
+						<option>the Earth</option>
+						<option>cold and dark.</option>
+						<option>Without</option>
+						<option>became</option>
+						<answer>Without heat and light from the sun, the Earth became cold and dark.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>The dinosaurs</option>
+						<option>too cold.</option>
+						<option>died</option>
+						<option>because</option>
+						<option>it</option>
+						<option>was</option>
+						<answer>The dinosaurs died because it was too cold.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0411C.jpg</image>
+				<audio>NDE0411C.mp3</audio>
+				<viewscript>Kathy: Did all the dinosaurs die because it was too cold?
+
+Denise:	Well, some dinosaurs died from the cold. Other dinosaurs died because they didn't have enough to eat.
+
+Kathy: Why didn't they have enough to eat?
+
+Denise:	You see, most dinosaurs ate plants. Plants need heat and light. When the earth became cold and dark, many plants died. And when the plants died, the dinosaurs didn't have enough to eat, and they died.</viewscript>
+				<comprehension>
+					<title>Lesson 11-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What do most dinosaurs eat?</question>
+						<option>plants</option>
+						<option>meat</option>
+						<option>small animals</option>
+						<answer>plants</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Why didn't the dinosaurs have enough to eat?</question>
+						<option>When the Earth became cold and dark, many plants died.</option>
+						<option>There weren't enough animals.</option>
+						<option>The animals moved to warmer places.</option>
+						<answer>When the Earth became cold and dark, many plants died.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What happened to the dinosaurs when the plants died?</question>
+						<option>The dinosaurs didn't have enough to eat and they died.</option>
+						<option>The dinosaurs began to eat meat.</option>
+						<option>The dinosaurs fought with each other.</option>
+						<answer>The dinosaurs didn't have enough to eat and they died.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Some dinosaurs died _______ they didn't have enough to eat.</question>
+						<option>because</option>
+						<option>so</option>
+						<option>cause</option>
+						<answer>because</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Why didn't the dinosaurs ____ enough to eat?</question>
+						<option>have</option>
+						<option>has</option>
+						<option>had</option>
+						<answer>have</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Plants need ____ and light to live.</question>
+						<option>heat</option>
+						<option>hot</option>
+						<option>warm</option>
+						<answer>heat</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="12">
+		<title>Unit 12: Do you like to go hunting?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0412A.jpg</image>
+				<audio>NDE0412A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandy Steele. Hi, Sandy.  Welcome back.
+
+Sandy: Hi, Kathy. It's nice to be back.
+
+Kathy: Sandy, we know that you like to go fishing. How about hunting? Do you like to go hunting?
+
+Sandy: Well, when I was a boy, I went hunting every summer with my father. We went duck hunting.
+
+Kathy: Did you enjoy hunting?
+
+Sandy: Yes, I did. I liked being outdoors with my Dad.
+
+Kathy: Do you still go hunting?
+
+Sandy: Not very often. But sometimes... sometimes I go hunting.
+
+Kathy: Do you own a gun?
+
+Sandy: Yes, I do. I own a gun, for hunting.</viewscript>
+				<comprehension>
+					<title>Lesson 12-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When he was a child, who did Sandy go hunting with?</question>
+						<option>his father</option>
+						<option>his grandfather</option>
+						<option>his brothers</option>
+						<answer>his father</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How often does he go hunting now?</question>
+						<option>not very often</option>
+						<option>He doesn't go hunting any more.</option>
+						<option>He often goes hunting.</option>
+						<answer>not very often</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Does Sandy own a gun?</question>
+						<option>Yes, he does.</option>
+						<option>No, he doesn't.</option>
+						<option>He used to but he doesn't anymore.</option>
+						<answer>Yes, he does.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I ____________ every summer with my father.</question>
+						<option>went hunting</option>
+						<option>hunting</option>
+						<option>did hunting</option>
+						<answer>went hunting</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I liked _____ outdoors with my Dad.</question>
+						<option>being</option>
+						<option>be</option>
+						<option>was</option>
+						<answer>being</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Do you ___ a gun?</question>
+						<option>own</option>
+						<option>owning</option>
+						<option>owned</option>
+						<answer>own</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0412B.jpg</image>
+				<audio>NDE0412B.mp3</audio>
+				<viewscript>Kathy: Sandy, many Americans feel that guns are bad. They think it is wrong for people to own guns.
+
+Sandy: Well, I don't agree. I like to go hunting. I need a gun to go hunting. I don't think it is wrong for people to own guns.
+
+Kathy: What about guns in people's homes? Many Americans think it is dangerous for people to have guns in their homes. Do you think so?
+
+Sandy: No, I don't. I don't think it is dangerous for people to have guns in their homes.</viewscript>
+				<comprehension>
+					<title>Lesson 12-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0412B_Q1.mp3|How does Sandy feel about guns?</question>
+						<option>He doesn't think it's wrong for people to own guns.</option>
+						<option>He thinks it's wrong for people to own guns.</option>
+						<option>He thinks guns are dangerous.</option>
+						<answer>He doesn't think it's wrong for people to own guns.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0412B_Q2.mp3|Why does Sandy feel that he needs to own a gun?</question>
+						<option>He needs a gun to go hunting.</option>
+						<option>He needs a gun for safety.</option>
+						<option>He doesn't own a gun.</option>
+						<answer>He needs a gun to go hunting.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0412B_Q3.mp3|What does Sandy think about people having guns in their homes?</question>
+						<option>He doesn't think it's dangerous.</option>
+						<option>He thinks it's very dangerous. </option>
+						<option>He thinks all Americans should own guns.</option>
+						<answer>He doesn't think it's dangerous.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>Many Americans</option>
+						<option>it is</option>
+						<option>for people</option>
+						<option>to own guns.</option>
+						<option>think</option>
+						<option>wrong</option>
+						<answer>Many Americans think it is wrong for people to own guns.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>to go</option>
+						<option>I</option>
+						<option>need</option>
+						<option>a</option>
+						<option>gun</option>
+						<option>hunting.</option>
+						<answer>I need a gun to go hunting.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>I don't</option>
+						<option>it's wrong</option>
+						<option>for people</option>
+						<option>to own</option>
+						<option>think</option>
+						<option>guns.</option>
+						<answer>I don't think it's wrong for people to own guns.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0412C.jpg</image>
+				<audio>NDE0412C.mp3</audio>
+				<viewscript>Kathy: Now it's time for a phone call. Hello.  You're on the air with New Dynamic English.
+
+Mary: Hello. My name is Mary. I'm from Chicago. Each year, guns kill thousands of people. If we control guns, we can save lives.
+
+Sandy: I don't agree. The problem is criminals, not guns. If there were no guns, there would still be criminals.
+
+Mary: Well, criminals use guns. And guns kill people. If criminals didn't have guns, everyone would be much safer.</viewscript>
+				<comprehension>
+					<title>Lesson 12-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Which of these statements would Mary agree with?</question>
+						<option>If we control guns, we can save lives.</option>
+						<option>The problem is criminals, not guns.</option>
+						<option>Everyone has a right to own a gun.</option>
+						<answer>If we control guns, we can save lives.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who feels that everyone would be safer if there were fewer guns?</question>
+						<option>Mary</option>
+						<option>Sandy</option>
+						<option>They both feel this way.</option>
+						<answer>Mary</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How do Sandy and Mary feel about the subject of gun control?</question>
+						<option>They disagree.</option>
+						<option>They have similar opinions.</option>
+						<option>Sandy is in favor of gun control and Mary is opposed.</option>
+						<answer>They disagree.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>If we control guns, we can save _____.</question>
+						<option>lives</option>
+						<option>criminals</option>
+						<option>guns</option>
+						<answer>lives</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>If there were _______, there would still be criminals.</question>
+						<option>no guns</option>
+						<option>guns</option>
+						<option>more guns</option>
+						<answer>no guns</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>If criminals ___________ guns, everyone would be much safer.</question>
+						<option>didn't have</option>
+						<option>have</option>
+						<option>had more</option>
+						<answer>didn't have</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0412_bonus.jpg</image>
+				<audio>NDE0412_BONUS.mp3</audio>
+				<viewscript>Kent: This is Kent Moss, the New Dynamic English Man on the Street. I'm standing outside the Natural History Museum. With me is Ella Schoeffer-Wolf, who is nine years old. Ella, tell us why you're here.
+
+Ella: Well... I wrote a poem for a poetry contest. The contest was called "River of Words." And I won a trip to Washington, D.C.
+
+Kent: And what was your poem about?
+
+Ella: Fish.
+
+Kent: Fish. Now, why did you write about fish?
+
+Ella: Well... we had to write about something in nature, you know, like the ocean, or rain, or animals. So I chose fish, because I want people to love fish.
+
+Kent: You want people to love fish?
+
+Ella: Yes, because people pollute the water that fish live in, and then the fish die. I think if people love fish, then maybe they won't pollute the oceans and rivers.
+
+Kent: I hope you're right, Ella. Well, it's been very nice talking with you. Good luck in the future!
+
+Ella: Thank you.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How old is Ella?</question>
+						<option>nine years old</option>
+						<option>nineteen years old</option>
+						<option>five years old</option>
+						<answer>nine years old</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What did Ella do?</question>
+						<option>She won a poetry contest.</option>
+						<option>She went fishing.</option>
+						<option>She gave a speech.</option>
+						<answer>She won a poetry contest.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Why does Ella want people to love fish?</question>
+						<option>So that they won't pollute oceans and rivers.</option>
+						<option>So that they won't eat fish.</option>
+						<option>So that they won't go fishing.</option>
+						<answer>So that they won't pollute oceans and rivers.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Why ___ you write about fish?</question>
+						<option>did</option>
+						<option>are</option>
+						<option>have</option>
+						<answer>did</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>People pollute the water ____ fish live in.</question>
+						<option>that</option>
+						<option>of</option>
+						<option>who</option>
+						<answer>that</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>If people love fish, they _____ pollute the oceans and rivers.</question>
+						<option>won't</option>
+						<option>should</option>
+						<option>not</option>
+						<answer>won't</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+</mainlist>
